@@ -1,0 +1,9 @@
+1. Statistically Typed Language (Explicit , Implicit)
+2. Type Inference / Implicit Way
+3. Mimic  Dynamically Typed Language using dynamic keyword in Explicit way or by Using var in Implicit way(Explicit , Implicit)
+4. Open Source Build by Google in 2011.
+5. Inspired from Java , C++, JS
+6. Multi Paradigm (OOPS, Functional Prg, Async Prg)
+7. Dart is used by Flutter
+8. General Purpose Programming (Mobile, Web , Desktop)
+9. Null Safety Language

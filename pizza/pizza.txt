@@ -1,0 +1,16 @@
+1. Pizza 
+DIO Call Pizza Data
+(https://gist.githubusercontent.com/kshirsagarps/36fade16fa39202715656ef487aaf7b0/raw/2b682e589ef283f06be42d2799dfa54f57794a6e/Pizza.json)
+2. Cubit 
+
+UI —> Cubit (Pizza Data ), No data —> DIO 
+3 File
+a) UPI
+b) Cubit
+c) DIO (Api Client)
+
+Addtocart —> Cubit 
+View Cart 
+Item Bill  - Total 
+
+Ref - https://pizzaonline.dominos.co.in/menu
